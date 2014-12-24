@@ -1,3 +1,26 @@
+## ros_comm_msgs (jade) - 1.10.3-0
+
+The packages in the `ros_comm_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade ros_comm_msgs` on `Wed, 24 Dec 2014 01:09:56 -0000`
+
+These packages were released:
+- `rosgraph_msgs`
+- `std_srvs`
+
+Version of package(s) in repository `ros_comm_msgs`:
+- upstream repository: https://github.com/ros/ros_comm_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `1.10.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## ros_comm_msgs (indigo) - 1.10.3-0
 
 The packages in the `ros_comm_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo ros_comm_msgs` on `Mon, 18 Aug 2014 18:56:13 -0000`
