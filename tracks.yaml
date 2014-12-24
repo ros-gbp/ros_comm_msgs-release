@@ -33,7 +33,7 @@ tracks:
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
     devel_branch: null
-    last_version: null
+    last_version: 1.10.3
     name: ros_comm_msgs
     patches: null
     release_inc: '0'
