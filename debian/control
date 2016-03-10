@@ -1,0 +1,13 @@
+Source: ros-jade-rosgraph-msgs
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-message-generation, ros-jade-std-msgs
+Homepage: http://ros.org/wiki/rosgraph_msgs
+Standards-Version: 3.9.2
+
+Package: ros-jade-rosgraph-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-message-runtime, ros-jade-std-msgs
+Description: Messages relating to the ROS Computation Graph.
+ These are generally considered to be low-level messages that end users do not interact with.
