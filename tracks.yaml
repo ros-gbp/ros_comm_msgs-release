@@ -32,7 +32,7 @@ tracks:
       -i :{release_inc}
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: null
+    devel_branch: indigo-devel
     last_version: 1.11.2
     name: ros_comm_msgs
     patches: null
@@ -56,7 +56,7 @@ tracks:
       -i :{release_inc} --os-name debian --os-not-required
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: null
+    devel_branch: kinetic-devel
     last_version: 1.11.2
     name: ros_comm_msgs
     patches: null
@@ -80,7 +80,7 @@ tracks:
       -i :{release_inc} --os-name debian --os-not-required
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: null
+    devel_branch: indigo-devel
     last_version: 1.11.2
     name: ros_comm_msgs
     patches: null
@@ -104,7 +104,7 @@ tracks:
       -i :{release_inc} --os-name debian --os-not-required
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: null
+    devel_branch: kinetic-devel
     last_version: 1.11.2
     name: ros_comm_msgs
     patches: null
