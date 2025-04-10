@@ -1,3 +1,28 @@
+## ros_comm_msgs (noetic) - 1.11.4-1
+
+The packages in the `ros_comm_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic ros_comm_msgs` on `Thu, 10 Apr 2025 21:33:19 -0000`
+
+These packages were released:
+- `rosgraph_msgs`
+- `std_srvs`
+
+Version of package(s) in repository `ros_comm_msgs`:
+
+- upstream repository: https://github.com/ros/ros_comm_msgs.git
+- release repository: https://github.com/ros-gbp/ros_comm_msgs-release.git
+- rosdistro version: `1.11.3-1`
+- old version: `1.11.3-1`
+- new version: `1.11.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ros_comm_msgs (noetic) - 1.11.3-1
 
 The packages in the `ros_comm_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic ros_comm_msgs` on `Tue, 11 Feb 2020 00:00:28 -0000`
